@@ -1,0 +1,9 @@
+fastapi 
+uvicorn 
+transformers 
+torch
+ipykernel
+sentencepiece
+langchain
+langchain-openai
+langchain-google-genai
