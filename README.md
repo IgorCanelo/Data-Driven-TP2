@@ -2,7 +2,7 @@ Projeto
 Este repositório contém a resolução de exercícios organizados em duas partes. Abaixo, você encontrará instruções sobre como configurar e executar o projeto.
 Para execução do projeto instale as bibliotecas listadas no arquivo requirements.txt
 
-- Parte 1
+
 A Parte 1 contém os seguintes exercícios:
 
     Exercício 1
@@ -13,7 +13,7 @@ A Parte 1 contém os seguintes exercícios:
     Descrição: Criado um aplicativo FastAPI que utiliza o modelo de tradução Helsinki-NLP/opus-mt-en-fr da HuggingFace para traduzir textos do inglês para o francês.
     Execução: Entrar na pasta 'Parte 1' e no terminal executar o seguinte comando: uvicorn ex_2:app --reload
 
-- Parte 2
+
 A Parte 2 contém os seguintes exercícios:
 
     Exercício 1
